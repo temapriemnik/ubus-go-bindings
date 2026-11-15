@@ -108,7 +108,7 @@ import (
 	"fmt"
 	"time"
 
-	ubus "github.com/artem/ubus-go-bindings"
+	ubus "github.com/temapriemnik/ubus-go-bindings"
 )
 
 func main() {

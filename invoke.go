@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/artem/ubus-go-bindings/internal/native"
+	"github.com/temapriemnik/ubus-go-bindings/internal/native"
 )
 
 // ObjectInfo describes one object returned by a native ubus lookup.

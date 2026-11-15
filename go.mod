@@ -1,3 +1,3 @@
-module github.com/artem/ubus-go-bindings
+module github.com/temapriemnik/ubus-go-bindings
 
 go 1.23

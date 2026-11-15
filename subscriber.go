@@ -7,7 +7,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/artem/ubus-go-bindings/internal/native"
+	"github.com/temapriemnik/ubus-go-bindings/internal/native"
 )
 
 // Notification is an object-specific ubus notification.

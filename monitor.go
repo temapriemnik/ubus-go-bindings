@@ -7,7 +7,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/artem/ubus-go-bindings/internal/native"
+	"github.com/temapriemnik/ubus-go-bindings/internal/native"
 )
 
 // Direction is the transport direction of a monitored ubus message.

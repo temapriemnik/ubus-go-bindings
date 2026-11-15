@@ -12,7 +12,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/artem/ubus-go-bindings/internal/native"
+	"github.com/temapriemnik/ubus-go-bindings/internal/native"
 )
 
 const (

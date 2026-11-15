@@ -9,7 +9,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/artem/ubus-go-bindings/internal/native"
+	"github.com/temapriemnik/ubus-go-bindings/internal/native"
 )
 
 // Object describes an object and its methods before publication.
